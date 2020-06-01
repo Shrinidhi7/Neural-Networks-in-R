@@ -1,0 +1,1 @@
+credit<-read.csv("C:/Users/lenovo/Documents/DATA")
